@@ -32,5 +32,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake-compiler"
   spec.add_development_dependency "rspec"
 
-  spec.add_dependency "rugged", [">= 0.22.2", "< 0.25.0"]
+  spec.add_dependency "rugged", [">= 1.0"]
 end
